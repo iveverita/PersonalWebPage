@@ -30,8 +30,3 @@ php -S localhost:8000
 http://localhost:8000
 ```
 
-4. Acces admin panel for add new projects:
-```bash
-login: admin
-password: LongPass
-```
